@@ -1,0 +1,3 @@
+interface:
+  display_name: "ABS信用研究报告"
+  short_description: "依据评级报告与募集说明书撰写ABS信用研究报告，支持Word和纯文本"
